@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=basketball
+comment1.params=x\ y\ width\ height\ isGoodBall
+comment1.target=basketball(double,\ double,\ double,\ double,\ boolean)
+comment2.params=dx\ dy
+comment2.target=void\ move(double,\ double)
+comment3.params=
+comment3.target=void\ wrap()
+comment4.params=gc
+comment4.target=void\ draw(javafx.scene.canvas.GraphicsContext)
+numComments=5

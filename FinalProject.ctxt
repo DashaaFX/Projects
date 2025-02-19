@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=FinalProject
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=mainStage
+comment2.target=void\ start(javafx.stage.Stage)
+comment3.params=context
+comment3.target=void\ startGameTimer(javafx.scene.canvas.GraphicsContext)
+comment4.params=now
+comment4.target=void\ handle(long)
+comment5.params=
+comment5.target=void\ updateHitMissPercentage()
+comment6.params=context
+comment6.target=void\ initializeGame(javafx.scene.canvas.GraphicsContext)
+comment7.params=won
+comment7.target=void\ endGame(boolean)
+numComments=8
